@@ -242,16 +242,17 @@ button {
     text-transform: capitalize;
     margin: 1rem 0;
     font-size: 0.5rem;
-    width: 20vw;
-    min-width: 15vw;
+    margin-right: 50px;
+    /* width: 60px; */
+    min-width: 100px
 
 }
 
 .feature-img ul li img {
-    margin-left: auto;
-    margin-right: auto;
-    height: 60px;
-    width: 60px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    height: 70px;
+    width: 100px;
     background-color: transparent;
 }
 
